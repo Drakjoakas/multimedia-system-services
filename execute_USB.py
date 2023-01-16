@@ -1,4 +1,14 @@
-
+# !/usr/bin/env python3
+# ## ###############################################
+#
+# execute_USB.py
+# Callable function to perform actions as if a USB was detected
+# 
+#
+# Autor: Joaquin Sandoval - Sebastián Arjona - Isaac Nájera
+# License: MIT
+#
+# ## ###############################################
 import subprocess
 import os
 import detectUSB

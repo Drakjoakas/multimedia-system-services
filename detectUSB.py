@@ -1,3 +1,15 @@
+# !/usr/bin/env python3
+# ## ###############################################
+#
+# detectUSB.py
+# Performs actions according to the file types found in a USB
+# connected. Designed for 'multimedia-system'
+#
+# Autor: Joaquin Sandoval - Sebastián Arjona - Isaac Nájera
+# License: MIT
+#
+# ## ###############################################
+
 import subprocess
 import os
 import tkinter as tk

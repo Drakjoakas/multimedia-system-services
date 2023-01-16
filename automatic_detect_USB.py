@@ -1,3 +1,15 @@
+# !/usr/bin/env python3
+# ## ###############################################
+#
+# automatic_detect_USB.py
+# Detects when a USB si plugged on a linux system and 
+# executes actions accordingly
+#
+# Autor: Joaquin Sandoval - Sebastián Arjona - Isaac Nájera
+# License: MIT
+#
+# ## ###############################################
+
 import detectUSB
 import pyudev
 
