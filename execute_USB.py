@@ -15,5 +15,3 @@ def execute():
     if len(connected_devices) > 0:
         name = connected_devices[-1]
         detectUSB.handleDeviceByAction('add', 'change', name)
-
-execute()

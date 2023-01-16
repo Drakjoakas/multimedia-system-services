@@ -15,7 +15,7 @@ antimicrox --hidden --profile ../ps4Profile.gamecontroller.amgp &
 
 # Start node server with react app
 serve -s build &
-#webapp=""
+webapp=""
 
 while [ "$webapp" = "" ];
 do
